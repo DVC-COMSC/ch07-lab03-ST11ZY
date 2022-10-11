@@ -6,6 +6,6 @@ total=sum(numbers)
 avg=total/5
 while x<5:
     if numbers[x]>avg:
-        print(numbers[x])
+        print(numbers[x], end=' ')
     x=x+1
 # Make your Code******************************
